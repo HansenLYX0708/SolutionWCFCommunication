@@ -1,0 +1,4 @@
+D:\Git\Code\SolutionWCFCommunication\SolutionWCFCommunication\ClassLibraryIService\bin\Debug\IService.dll
+D:\Git\Code\SolutionWCFCommunication\SolutionWCFCommunication\ClassLibraryIService\bin\Debug\IService.pdb
+D:\Git\Code\SolutionWCFCommunication\SolutionWCFCommunication\ClassLibraryIService\obj\Debug\IService.dll
+D:\Git\Code\SolutionWCFCommunication\SolutionWCFCommunication\ClassLibraryIService\obj\Debug\IService.pdb

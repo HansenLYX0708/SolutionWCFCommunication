@@ -1,0 +1,11 @@
+D:\Git\Code\SolutionWCFCommunication\SolutionWCFCommunication\ApplicationHost\bin\Debug\ApplicationHost.exe
+D:\Git\Code\SolutionWCFCommunication\SolutionWCFCommunication\ApplicationHost\bin\Debug\ApplicationHost.pdb
+D:\Git\Code\SolutionWCFCommunication\SolutionWCFCommunication\ApplicationHost\obj\x86\Debug\MainWindow.baml
+D:\Git\Code\SolutionWCFCommunication\SolutionWCFCommunication\ApplicationHost\obj\x86\Debug\MainWindow.g.cs
+D:\Git\Code\SolutionWCFCommunication\SolutionWCFCommunication\ApplicationHost\obj\x86\Debug\App.g.cs
+D:\Git\Code\SolutionWCFCommunication\SolutionWCFCommunication\ApplicationHost\obj\x86\Debug\ApplicationHost_MarkupCompile.cache
+D:\Git\Code\SolutionWCFCommunication\SolutionWCFCommunication\ApplicationHost\obj\x86\Debug\ApplicationHost.g.resources
+D:\Git\Code\SolutionWCFCommunication\SolutionWCFCommunication\ApplicationHost\obj\x86\Debug\ApplicationHost.Properties.Resources.resources
+D:\Git\Code\SolutionWCFCommunication\SolutionWCFCommunication\ApplicationHost\obj\x86\Debug\ApplicationHost.csproj.GenerateResource.Cache
+D:\Git\Code\SolutionWCFCommunication\SolutionWCFCommunication\ApplicationHost\obj\x86\Debug\ApplicationHost.exe
+D:\Git\Code\SolutionWCFCommunication\SolutionWCFCommunication\ApplicationHost\obj\x86\Debug\ApplicationHost.pdb

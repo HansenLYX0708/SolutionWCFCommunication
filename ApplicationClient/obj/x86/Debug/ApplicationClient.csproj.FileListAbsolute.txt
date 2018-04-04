@@ -1,0 +1,11 @@
+D:\Git\Code\SolutionWCFCommunication\SolutionWCFCommunication\ApplicationClient\bin\Debug\ApplicationClient.exe
+D:\Git\Code\SolutionWCFCommunication\SolutionWCFCommunication\ApplicationClient\bin\Debug\ApplicationClient.pdb
+D:\Git\Code\SolutionWCFCommunication\SolutionWCFCommunication\ApplicationClient\obj\x86\Debug\MainWindow.baml
+D:\Git\Code\SolutionWCFCommunication\SolutionWCFCommunication\ApplicationClient\obj\x86\Debug\MainWindow.g.cs
+D:\Git\Code\SolutionWCFCommunication\SolutionWCFCommunication\ApplicationClient\obj\x86\Debug\App.g.cs
+D:\Git\Code\SolutionWCFCommunication\SolutionWCFCommunication\ApplicationClient\obj\x86\Debug\ApplicationClient_MarkupCompile.cache
+D:\Git\Code\SolutionWCFCommunication\SolutionWCFCommunication\ApplicationClient\obj\x86\Debug\ApplicationClient.g.resources
+D:\Git\Code\SolutionWCFCommunication\SolutionWCFCommunication\ApplicationClient\obj\x86\Debug\ApplicationClient.Properties.Resources.resources
+D:\Git\Code\SolutionWCFCommunication\SolutionWCFCommunication\ApplicationClient\obj\x86\Debug\ApplicationClient.csproj.GenerateResource.Cache
+D:\Git\Code\SolutionWCFCommunication\SolutionWCFCommunication\ApplicationClient\obj\x86\Debug\ApplicationClient.exe
+D:\Git\Code\SolutionWCFCommunication\SolutionWCFCommunication\ApplicationClient\obj\x86\Debug\ApplicationClient.pdb
