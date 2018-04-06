@@ -5,7 +5,7 @@ using System.Text;
 
 using System.Runtime.Serialization;
 
-namespace Project.Communication.IService
+namespace Project.Communication.Module
 {
     class Faults
     {

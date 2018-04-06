@@ -8,7 +8,7 @@
 // ****************************************************************
 using System;
 
-namespace Project.Communication.IService
+namespace Project.Communication.Module
 {
 	/// <summary>
 	/// Summary description for CompletedEventArgs.

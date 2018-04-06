@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Project.Communication.Module
+namespace ClassLibraryIServiceStreaming
 {
-    interface IClassLServiceCallback
+    public class Class1
     {
     }
 }

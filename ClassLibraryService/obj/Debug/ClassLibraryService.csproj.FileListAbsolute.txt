@@ -1,0 +1,9 @@
+D:\Git\Code\SolutionWCFCommunication\SolutionWCFCommunication\ClassLibraryService\obj\Debug\ClassLibraryService.csprojResolveAssemblyReference.cache
+D:\Git\Code\SolutionWCFCommunication\SolutionWCFCommunication\ClassLibraryService\bin\Debug\ClassLibraryService.dll
+D:\Git\Code\SolutionWCFCommunication\SolutionWCFCommunication\ClassLibraryService\bin\Debug\ClassLibraryService.pdb
+D:\Git\Code\SolutionWCFCommunication\SolutionWCFCommunication\ClassLibraryService\bin\Debug\IService.dll
+D:\Git\Code\SolutionWCFCommunication\SolutionWCFCommunication\ClassLibraryService\bin\Debug\IService.pdb
+D:\Git\Code\SolutionWCFCommunication\SolutionWCFCommunication\ClassLibraryService\obj\Debug\ClassLibraryService.dll
+D:\Git\Code\SolutionWCFCommunication\SolutionWCFCommunication\ClassLibraryService\obj\Debug\ClassLibraryService.pdb
+D:\Git\Code\SolutionWCFCommunication\SolutionWCFCommunication\ClassLibraryService\bin\Debug\ClassLibraryASupport.dll
+D:\Git\Code\SolutionWCFCommunication\SolutionWCFCommunication\ClassLibraryService\bin\Debug\ClassLibraryASupport.pdb

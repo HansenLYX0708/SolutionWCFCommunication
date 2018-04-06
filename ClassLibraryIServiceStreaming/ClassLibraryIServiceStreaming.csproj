@@ -5,11 +5,11 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{4DA5DC23-7900-40C2-9D84-D8CEF84EA2B6}</ProjectGuid>
+    <ProjectGuid>{515D1B04-2F9B-4F2B-83D0-4FF87F1564F0}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Project.Communication.IService</RootNamespace>
-    <AssemblyName>IService</AssemblyName>
+    <RootNamespace>ClassLibraryIServiceStreaming</RootNamespace>
+    <AssemblyName>ClassLibraryIServiceStreaming</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -33,8 +33,6 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
-    <Reference Include="System.Runtime.Serialization" />
-    <Reference Include="System.ServiceModel" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -42,15 +40,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="EventArgsBlade.cs" />
-    <Compile Include="EventArgsCompleted.cs" />
-    <Compile Include="FaultErrorHandler.cs" />
-    <Compile Include="Faults.cs" />
-    <Compile Include="IClassLService.cs" />
-    <Compile Include="IClassLServiceCallback.cs" />
+    <Compile Include="Class1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="EventArgsStarted.cs" />
-    <Compile Include="EventArgsStatus.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

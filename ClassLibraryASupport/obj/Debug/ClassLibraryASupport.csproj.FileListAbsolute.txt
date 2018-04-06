@@ -1,0 +1,4 @@
+D:\Git\Code\SolutionWCFCommunication\SolutionWCFCommunication\ClassLibraryASupport\bin\Debug\ClassLibraryASupport.dll
+D:\Git\Code\SolutionWCFCommunication\SolutionWCFCommunication\ClassLibraryASupport\bin\Debug\ClassLibraryASupport.pdb
+D:\Git\Code\SolutionWCFCommunication\SolutionWCFCommunication\ClassLibraryASupport\obj\Debug\ClassLibraryASupport.dll
+D:\Git\Code\SolutionWCFCommunication\SolutionWCFCommunication\ClassLibraryASupport\obj\Debug\ClassLibraryASupport.pdb

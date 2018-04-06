@@ -6,7 +6,7 @@ using System.Text;
 using System.Security;
 using System.ServiceModel;
 
-namespace Project.Communication.IService
+namespace Project.Communication.Module
 {
     [ServiceContract(Name = "IServiceContract",
         Namespace = "Project.Communication.IService",

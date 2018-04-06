@@ -13,7 +13,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Project.Communication.IService
+namespace Project.Communication.Module
 {
     public class EventTypeBlade
     {
