@@ -4,15 +4,15 @@
 winexe
 C#
 .cs
-D:\Git\Code\SolutionWCFCommunication\SolutionWCFCommunication\ApplicationClient\obj\x86\Debug\
+C:\GitWorkspace\SolutionWCFCommunication\ApplicationClient\obj\x86\Debug\
 ApplicationClient
 none
 false
 DEBUG;TRACE
-D:\Git\Code\SolutionWCFCommunication\SolutionWCFCommunication\ApplicationClient\App.xaml
+C:\GitWorkspace\SolutionWCFCommunication\ApplicationClient\App.xaml
 11151548125
 
-6-2057867086
+6754597221
 12-1381780322
 MainWindow.xaml;
 
