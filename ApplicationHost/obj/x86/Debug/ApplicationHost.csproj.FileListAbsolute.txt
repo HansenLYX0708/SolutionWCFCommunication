@@ -9,3 +9,12 @@ D:\Git\Code\SolutionWCFCommunication\SolutionWCFCommunication\ApplicationHost\ob
 D:\Git\Code\SolutionWCFCommunication\SolutionWCFCommunication\ApplicationHost\obj\x86\Debug\ApplicationHost.csproj.GenerateResource.Cache
 D:\Git\Code\SolutionWCFCommunication\SolutionWCFCommunication\ApplicationHost\obj\x86\Debug\ApplicationHost.exe
 D:\Git\Code\SolutionWCFCommunication\SolutionWCFCommunication\ApplicationHost\obj\x86\Debug\ApplicationHost.pdb
+D:\Git\Code\SolutionWCFCommunication\SolutionWCFCommunication\ApplicationHost\bin\Debug\ClassLibraryService.dll
+D:\Git\Code\SolutionWCFCommunication\SolutionWCFCommunication\ApplicationHost\bin\Debug\ClassLibraryServiceStreaming.dll
+D:\Git\Code\SolutionWCFCommunication\SolutionWCFCommunication\ApplicationHost\bin\Debug\IService.dll
+D:\Git\Code\SolutionWCFCommunication\SolutionWCFCommunication\ApplicationHost\bin\Debug\ClassLibraryASupport.dll
+D:\Git\Code\SolutionWCFCommunication\SolutionWCFCommunication\ApplicationHost\bin\Debug\ClassLibraryServiceStreaming.pdb
+D:\Git\Code\SolutionWCFCommunication\SolutionWCFCommunication\ApplicationHost\bin\Debug\ClassLibraryService.pdb
+D:\Git\Code\SolutionWCFCommunication\SolutionWCFCommunication\ApplicationHost\bin\Debug\IService.pdb
+D:\Git\Code\SolutionWCFCommunication\SolutionWCFCommunication\ApplicationHost\bin\Debug\ClassLibraryASupport.pdb
+D:\Git\Code\SolutionWCFCommunication\SolutionWCFCommunication\ApplicationHost\obj\x86\Debug\ApplicationHost.csprojResolveAssemblyReference.cache

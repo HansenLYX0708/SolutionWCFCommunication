@@ -92,6 +92,16 @@
     </None>
     <AppDesigner Include="Properties\" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ClassLibraryServiceStreaming\ClassLibraryServiceStreaming.csproj">
+      <Project>{F665551C-6F80-4D5C-A85F-44511724B530}</Project>
+      <Name>ClassLibraryServiceStreaming</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ClassLibraryService\ClassLibraryService.csproj">
+      <Project>{F127E8E9-86BF-4F50-8EB7-F82279D32A77}</Project>
+      <Name>ClassLibraryService</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

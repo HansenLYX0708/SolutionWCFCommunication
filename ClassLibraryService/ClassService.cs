@@ -26,22 +26,31 @@ namespace Project.Communication.Module
 
         public void AddBindingParameters(ServiceDescription serviceDescription, ServiceHostBase serviceHostBase, System.Collections.ObjectModel.Collection<ServiceEndpoint> endpoints, System.ServiceModel.Channels.BindingParameterCollection bindingParameters)
         {
-            throw new NotImplementedException();
+            //throw new NotImplementedException();
         }
 
         public void ApplyDispatchBehavior(ServiceDescription serviceDescription, ServiceHostBase serviceHostBase)
         {
-            throw new NotImplementedException();
+            //throw new NotImplementedException();
         }
 
         public void Validate(ServiceDescription serviceDescription, ServiceHostBase serviceHostBase)
         {
-            throw new NotImplementedException();
+            //throw new NotImplementedException();
+        }
+
+                /// <summary>
+        /// Constructor
+        /// </summary>
+        [ImportingConstructor]
+        public ClassService()
+        {
+
         }
 
         public void Func1()
         {
-
+            
         }
         public void Func2()
         {

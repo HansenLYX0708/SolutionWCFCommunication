@@ -8,7 +8,7 @@
 // ****************************************************************
 using System;
 
-namespace Hitachi.Tester.Module
+namespace Project.Communication.Module
 {
 
     /// <summary>
@@ -21,7 +21,7 @@ namespace Hitachi.Tester.Module
         void NotifyContent(string text);
         void OnExitDelegate(Delegate thisOne);
         string GetCurrentCultureString(string whichStr);
-        Hitachi.Tester.Enums.ReturnValues LogInValueProp { set; }
+        Project.Communication.Enums.ReturnValues LogInValueProp { set; }
         void BladeEvent(object[] BladeEventArgsObject);
         event ObjObjDelegate SendToTesterObjectEvent;
 

@@ -1,0 +1,4 @@
+D:\Git\Code\SolutionWCFCommunication\SolutionWCFCommunication\ClassLibraryIServiceStreaming\bin\Debug\ClassLibraryIServiceStreaming.dll
+D:\Git\Code\SolutionWCFCommunication\SolutionWCFCommunication\ClassLibraryIServiceStreaming\bin\Debug\ClassLibraryIServiceStreaming.pdb
+D:\Git\Code\SolutionWCFCommunication\SolutionWCFCommunication\ClassLibraryIServiceStreaming\obj\Debug\ClassLibraryIServiceStreaming.dll
+D:\Git\Code\SolutionWCFCommunication\SolutionWCFCommunication\ClassLibraryIServiceStreaming\obj\Debug\ClassLibraryIServiceStreaming.pdb

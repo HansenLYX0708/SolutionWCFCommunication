@@ -8,8 +8,8 @@ using System.ServiceModel;
 
 namespace Project.Communication.Module
 {
-    [ServiceContract(Name = "IServiceContract",
-        Namespace = "Project.Communication.IService",
+    [ServiceContract(Name = "ClassLServiceContract",
+        Namespace = "Project.Communication.Module",
         CallbackContract = typeof(IClassLServiceCallback))]
     public interface IClassLService
     {

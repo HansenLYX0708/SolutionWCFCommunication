@@ -7,3 +7,4 @@ D:\Git\Code\SolutionWCFCommunication\SolutionWCFCommunication\ClassLibraryServic
 D:\Git\Code\SolutionWCFCommunication\SolutionWCFCommunication\ClassLibraryService\obj\Debug\ClassLibraryService.pdb
 D:\Git\Code\SolutionWCFCommunication\SolutionWCFCommunication\ClassLibraryService\bin\Debug\ClassLibraryASupport.dll
 D:\Git\Code\SolutionWCFCommunication\SolutionWCFCommunication\ClassLibraryService\bin\Debug\ClassLibraryASupport.pdb
+D:\Git\Code\SolutionWCFCommunication\SolutionWCFCommunication\ClassLibraryService\bin\Debug\ClassLibraryService.dll.config

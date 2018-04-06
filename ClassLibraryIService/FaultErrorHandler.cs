@@ -21,17 +21,17 @@ namespace Project.Communication.IService
 
         public void AddBindingParameters(ServiceDescription serviceDescription, ServiceHostBase serviceHostBase, System.Collections.ObjectModel.Collection<ServiceEndpoint> endpoints, BindingParameterCollection bindingParameters)
         {
-            throw new NotImplementedException();
+            //throw new NotImplementedException();
         }
 
         public void ApplyDispatchBehavior(ServiceDescription serviceDescription, ServiceHostBase serviceHostBase)
         {
-            throw new NotImplementedException();
+            //throw new NotImplementedException();
         }
 
         public void Validate(ServiceDescription serviceDescription, ServiceHostBase serviceHostBase)
         {
-            throw new NotImplementedException();
+            //throw new NotImplementedException();
         }
     }
 }
